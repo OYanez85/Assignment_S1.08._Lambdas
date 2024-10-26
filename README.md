@@ -35,6 +35,7 @@ Eclipse: Go to Window -> Preferences -> Java -> Installed JREs and ensure JDK 11
 All exercises can be run from the command line. Each exercise should be compiled first and then executed using the provided commands. Ensure you are in the main project directory before running the commands.
 
 Level 1
+
 Exercise 1: Filter strings containing the letter "o".
 
 javac -d Level_1/bin Level_1/Exercise_1/LambdaExercise1.java
@@ -42,11 +43,14 @@ java -cp Level_1/bin com.example.lambdas.Level_1.Exercise_1.LambdaExercise1
 Exercise 2: Implement additional functionality here.
 
 Level 2
+
 Exercise 1: Implement additional functionality here.
 
 javac -d Level_2/bin Level_2/Exercise1.java
 java -cp Level_2/bin com.example.lambdas.Level_2.Exercise1
+
 Level 3
+
 Exercise 1: Implement additional functionality here.
 
 javac -d Level_3/bin Level_3/Exercise1.java
