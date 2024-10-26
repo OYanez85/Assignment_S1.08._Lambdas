@@ -1,0 +1,1 @@
+# Assignment S1.08 - Lambdas Project\n\n## Project Structure\n\n-  - Contains the source code.\n  -  - Main source files.\n    -  - Java files.\n      -  - Packages for different levels of exercises.\n-  - Compiled class files.\n-  - Configuration files.\n\n## How to Run the Exercises\n\nTo run the exercises, compile the Java files in the  directory and run the main classes.
